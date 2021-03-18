@@ -5,5 +5,5 @@ This script uses that document to report a plethora of charts to you. You can ch
 
 # installation
 
-git clone https://github.com/tilschuenemann/dkb_analysis 
+  > git clone https://github.com/tilschuenemann/dkb_analysis 
 
